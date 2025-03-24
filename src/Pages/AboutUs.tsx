@@ -10,7 +10,7 @@ import Allumini from "@/components/custom/AboutUs/Allumini";
 const aboutBreadScrum = [
   {
     label: "Home",
-    to: "/",
+    to: "/", 
   },
   {
     label: "About Us",
